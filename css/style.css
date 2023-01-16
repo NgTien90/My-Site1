@@ -1,0 +1,128 @@
+body {margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.top-container {
+    background-color: rgb(211, 243, 243);
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+ background-color: #66bfbf;
+ padding: 50PX 0 20px;
+}
+
+.circular {
+    border-radius: 100%;
+}
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+}
+.footer-link {
+    color: #11999E;
+}
+.btn {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 100px auto;
+    text-align: left;
+   
+}
+
+.chillies {
+    width: 25%;
+    float: left;
+    margin: auto 30px;
+}
+
+.computer {
+    width: 25%;float: right;
+    margin: auto auto auto 30px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+p {
+    line-height: 2;
+}
+
+.contactm {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    font-size:17px;
+    font-family: 'Montserrat', sans-serif;
+    width:156px;
+    height:52px;
+    border-width:10px;
+    color:#3a8a9e;
+    border-color:#d6bcd6;
+    font-weight:bold;
+    border-top-left-radius:24px;
+    border-top-right-radius:24px;
+    border-bottom-left-radius:24px;
+    border-bottom-right-radius:24px;
+    box-shadow: 3px 6px 16px 5px #899599;
+    text-shadow: 0px 1px 0px #e1e2ed;
+    background:linear-gradient(#ededed, #bab1ba);
+  }
+  
+  .btn:hover {
+    background: linear-gradient(#bab1ba, #ededed);
+  }
+  a {margin: 10px 20px;
+text-decoration: none;
+}
+a:hover {
+    color: #EAF6F6;
+}
+.copyright {
+    color: #EAF6F6;
+}
